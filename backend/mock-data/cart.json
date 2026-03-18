@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "buyer_id": 201,
+  "currency": "USD",
+  "subtotal": 3580,
+  "shipping_estimate": 260,
+  "total": 3840,
+  "updated_at": "2026-03-18",
+  "items": [
+    { "id": 1, "product_id": 1, "quantity": 1, "unit_price": 2400, "line_total": 2400 },
+    { "id": 2, "product_id": 9, "quantity": 1, "unit_price": 1180, "line_total": 1180 }
+  ]
+}

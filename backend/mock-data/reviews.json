@@ -1,0 +1,12 @@
+[
+  { "id": 1, "product_id": 1, "buyer_id": 201, "rating": 5, "title": "Beautiful grain and finish", "body": "The craftsmanship is outstanding and the table feels heirloom-quality.", "reviewer_name": "Emily R.", "created_at": "2026-02-02" },
+  { "id": 2, "product_id": 3, "buyer_id": 202, "rating": 5, "title": "Perfect centerpiece", "body": "The pedestal base is sculptural and incredibly stable.", "reviewer_name": "Marcus L.", "created_at": "2026-02-09" },
+  { "id": 3, "product_id": 4, "buyer_id": 203, "rating": 4, "title": "Comfortable and refined", "body": "The chair arrived exactly as pictured and feels luxurious.", "reviewer_name": "Ava S.", "created_at": "2026-01-18" },
+  { "id": 4, "product_id": 5, "buyer_id": 204, "rating": 4, "title": "Great loft piece", "body": "Love the steel base and reclaimed top pairing.", "reviewer_name": "Daniel T.", "created_at": "2026-02-14" },
+  { "id": 5, "product_id": 9, "buyer_id": 205, "rating": 5, "title": "Looks even better in person", "body": "The travertine top has beautiful variation and the console is solid.", "reviewer_name": "Chloe M.", "created_at": "2026-01-27" },
+  { "id": 6, "product_id": 11, "buyer_id": 206, "rating": 5, "title": "Excellent storage", "body": "The sideboard hides a lot and the fluted doors are gorgeous.", "reviewer_name": "Noah B.", "created_at": "2026-03-01" },
+  { "id": 7, "product_id": 12, "buyer_id": 207, "rating": 5, "title": "Craft quality is obvious", "body": "Lightweight but sturdy, with a great woven seat.", "reviewer_name": "Leila P.", "created_at": "2026-02-19" },
+  { "id": 8, "product_id": 14, "buyer_id": 208, "rating": 5, "title": "Ideal compact desk", "body": "Perfect for my apartment office and the walnut tone is rich.", "reviewer_name": "Jon K.", "created_at": "2026-03-04" },
+  { "id": 9, "product_id": 18, "buyer_id": 209, "rating": 5, "title": "Charming detail piece", "body": "Exactly what our entryway needed.", "reviewer_name": "Sophie D.", "created_at": "2026-02-22" },
+  { "id": 10, "product_id": 20, "buyer_id": 210, "rating": 5, "title": "An incredible table", "body": "This is one of the best custom-size dining tables we considered.", "reviewer_name": "Rina H.", "created_at": "2026-03-08" }
+]
