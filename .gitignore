@@ -9,8 +9,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Environment files
-.env
-.env.*
 
 # OS / editor
 .DS_Store
@@ -22,3 +20,5 @@ Thumbs.db
 vendor/
 storage/*.key
 bootstrap/cache/*.php
+config.bat
+node_modules
